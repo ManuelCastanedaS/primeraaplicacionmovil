@@ -1,4 +1,4 @@
-#Proyecto de Desarrollo de Aplicación para Distribución de Alimentos
+Proyecto de Desarrollo de Aplicación para Distribución de Alimentos
 
 Este repositorio contiene el código fuente y la documentación asociada para el desarrollo de una aplicación de distribución de alimentos para una empresa específica.
 
