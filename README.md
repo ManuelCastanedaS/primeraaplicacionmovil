@@ -6,3 +6,6 @@ Descripción del Proyecto
 
 La empresa de distribución de alimentos ha incluido un nuevo servicio de despacho a domicilio para sus clientes. El objetivo de este proyecto es desarrollar una aplicación que permita a los usuarios realizar compras de productos de la distribuidora y calcular automáticamente el costo del despacho según ciertas reglas de negocio.
 
+Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor abre un problema o envía una solicitud de extracción.
